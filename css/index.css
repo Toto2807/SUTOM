@@ -6,6 +6,12 @@ body{
     align-items: center;
     justify-content: center;
     /* background-color: #121213; */
+    /* background: linear-gradient(90deg, 
+        #0f0c29,
+        #302b63,
+        #f00000,
+        #0f0c29
+    ); */
     background: linear-gradient(90deg, 
         #000428,
         #004e92,
