@@ -3,7 +3,8 @@ const tableau = document.getElementById('tableau');
 const board = document.getElementById('board');
 const valider = document.getElementById('valider');
 
-const mot = "Car"
+const table_word = ["Car", "Bus", "Train", "Plane", "Boat", "Bike", "Truck", "Taxi", "Metro", "Tram"]
+const mot = table_word[Math.floor(Math.random() * table_word.length)]
 const attemps = 6
 
 for(let i = 0; i < attemps; i++){
