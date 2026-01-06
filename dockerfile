@@ -8,5 +8,3 @@ RUN rm -rf ./*
 COPY . .
 #expose sur le port 80
 EXPOSE 80
-# commande pour lancer nginx en mode non daemon (pas obligatoire)
-CMD ["nginx", "-g", "daemon off;"]
