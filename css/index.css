@@ -94,18 +94,18 @@ input.lettre:focus {
     height: 40px;
     border: none;
     border-radius: 25px;
-    /* background: linear-gradient(90deg, 
+    background: linear-gradient(90deg, 
         #000428,
         #004e92,
         #00d2ff,
         #000428
-    ); */
-    background: linear-gradient(90deg, 
+    );
+    /* background: linear-gradient(90deg, 
         #ff9a9e,
         #fad0c4,
         #ff9a9e,
         #ff9a9e
-    );
+    ); */
     color: white;
     font-size: 16px;
     cursor: pointer;
