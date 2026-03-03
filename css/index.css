@@ -12,18 +12,18 @@ body{
         #f00000,
         #0f0c29
     ); */
-    /* background: linear-gradient(90deg, 
+    background: linear-gradient(90deg, 
         #000428,
         #004e92,
         #00d2ff,
         #000428
-    ); */
-    background: linear-gradient(90deg, 
+    );
+    /* background: linear-gradient(90deg, 
         #ff0080,
         #ff66b2,
         #ff0080,
         #ff0080
-    );
+    ); */
     background-size: 200% 100%;
     animation: action 15s ease infinite;
     color: #ffffff;
