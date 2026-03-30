@@ -38,13 +38,8 @@ body{
     height: 40px;
     border: none;
     border-radius: 25px;
-    background: linear-gradient(90deg, 
-        #000428,
-        #004e92,
-        #00d2ff,
-        #000428
-    );
-    color: white;
+    background: #00d2ff;
+    color: rgb(56, 56, 56);
     font-size: 16px;
     cursor: pointer;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
